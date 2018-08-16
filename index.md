@@ -17,5 +17,5 @@ My current office hours for Spring 2018 are 10:15-11:15AM on Monday, Wednesday, 
 ## Current Courses ##
 Here are the courses that I am currently teaching (Fall 2017) at [Northern Arizona University](http://nau.edu).
 
-- [MAT 220: Introduction to Mathematical Reasoning]({{ site.baseurl }}/teaching/mat220s18)
+- [MAT 220: Introduction to Mathematical Reasoning]({{ site.baseurl }}/test/)
 - [MAT 411: Introduction to Abstract Algebra]({{ site.baseurl }}/teaching/mat411s18)
