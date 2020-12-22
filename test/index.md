@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solutions
-permalink: /test/
+permalink: /test/solutions
 ---
 
 Welcome to my personal site where I've compiled various articles discussing things I've figured out. I rely heavily on blog posts/articles when I am working on a project
