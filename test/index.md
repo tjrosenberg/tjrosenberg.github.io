@@ -1,4 +1,8 @@
-# Blog
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
 
 Welcome to my personal site where I've compiled various articles discussing things I've figured out. I rely heavily on blog posts/articles when I am working on a project
 so I felt like I should write some posts about the various projects I work on from time to time. I hope these articles will be of use to other people who want to take on 
