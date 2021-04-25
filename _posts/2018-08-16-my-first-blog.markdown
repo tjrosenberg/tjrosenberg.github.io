@@ -25,7 +25,7 @@ The standard deviation is another value or property of a dataset, the same way a
 
 Lets compare two cases of our grocery example from above:
 
-##### 1. The traveling sales person
+#### 1. The traveling sales person
 
 Imagine you are a sales person for some company that sends on work trips quite often, usually for 4 or 5 days at a time. When you aren't traveling you work in a regular office near where you live. You don't always know when you will be sent on a work trip - sometimes you come in Monday morning and find out you will be leaving Tuesday and won't be back until Friday afternoon. Since you have no idea whether you will be in town or away you still buy your groceries on Sunday. Just as before you record how many meals you cook and eat over the course of 3 months (12 weeks) and you find the following set: [16,15,2,3,4,18,6,13,14,7,17,5]. 
 
@@ -33,7 +33,7 @@ Next, you compute the average of your data and find:
 
 Average number of meals = (16+15+2+3+4+18+6+13+14+7+17+5)/12 = 10, just as in the example above. 
 
-##### 2. The consistent insurance agent
+#### 2. The consistent insurance agent
 
 Imagine this time you are an insurance agent who love a consistent schedule. You work in the same office everyday, where your job provides you lunch, on Fridays you go out to dinner with your coworkers and on Sundays you meet your mom for brunch. You also decide to record your number of meals cooked and eaten over the course of 3 months and find the following set: [9,11,10,8,11,10,9,11,10,12,9,10]
 
@@ -41,7 +41,7 @@ Next, you compute the average of your data and find:
 
 Average number of meals = (9+11+10+8+11+10+9+11+10+12+9+10)/12 = 10, just like the traveling sales person.
 
-##### What's the difference?
+#### What's the difference?
 
 From the description of these two different careers it is probably clear to you that they have a very different lifestyles however, they found the same average number of meals cooked and eaten per week. Further, when each of these cases tries the strategy of buying enough groceries to cook 10 meals the traveling sales person finds they are still over/underbuying quite frequently whereas the consistent insurance agent finds they almost always have the exact right number of meals. To understand why this is it is helpful to visualize the two datasets listed above in the form of a *histogram*. If you are unfamiliar, a histogram is just a chart that shows how frequently each possible value shows up in a data set. 
 
@@ -71,6 +71,6 @@ So whenever you see an average, you should ask the question "what is the standar
 
 
 
-##### Final notes
+#### Final notes
 
 It is worth mentioning that here I focused used the mean as my measure of center and the standard deviation as the measure of spread. However, in general there are many other measures of center and spread that can be used in various circumstances. 
