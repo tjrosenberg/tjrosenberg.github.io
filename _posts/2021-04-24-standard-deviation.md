@@ -47,7 +47,7 @@ From the description of these two different careers it is probably clear to you 
 
 
 
- <img src="standard dev.png" style="zoom:50%;" />
+ <img src="/assets/standard dev.png" style="zoom:50%;" />
 
 
 
