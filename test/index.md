@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solutions
+title: Solutionsxyz
 permalink: /test/solutions
 ---
 
