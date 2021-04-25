@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why should you care about standard deviation?"
-date:   2018-08-16 00:48:52 -0700
+date:   2021-04-24 00:48:52 -0700
 categories: jekyll update
 ---
 
